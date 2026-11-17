@@ -2,7 +2,6 @@ import { Navigate, Route, Routes } from "react-router-dom";
 import Navbar from "./Components/common/Navbar";
 import Footer from "./Components/common/Footer";
 import BackToTop from "./Components/common/BackToTop";
-import WhatsAppFloat from "/Components/common/WhatsAppFloat";
 import Blog from "./pages/Blog";
 import Contact from "./pages/Contact";
 import About from "./pages/about/About"; 
@@ -20,7 +19,7 @@ import CoirRollSheet from "./pages/products/CoirRollSheet";
 import CoirErosionControl from "./pages/products/CoirErosionControl";
 import CoirMattresses from "./pages/products/CoirMattresses";
 import CoirCorporateGifts from "./pages/products/CoirCorporateGifts";
-
+import WhatsAppFloat from "./Components/common/WhatsAppFloat";
 const App = () => {
   return (
     <>
