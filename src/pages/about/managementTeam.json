@@ -1,0 +1,32 @@
+[
+  {
+    "name": "A. Karunamurthi",
+    "title": "Chairman",
+    "bio": "Founder and Chairman of Adhi Annam Coir Comforts Pvt. Ltd. with over 20 years of experience in the coir industry, steering the company’s sustainable vision.",
+    "imageUrl": "/images/about/gallery/akm_edited.avif"
+  },
+  {
+    "name": "SV. Elango",
+    "title": "Managing Director",
+    "bio": "Leads day‑to‑day operations, overseeing product development, export logistics and client relationships across global markets.",
+    "imageUrl": "/images/about/gallery/Elango_edited_edited.avif"
+  },
+  {
+    "name": "A. Sriram",
+    "title": "Director – Operations & R&D",
+    "bio": "Heads the research‑and‑development team, driving innovation in eco‑friendly coir solutions and process optimisation.",
+    "imageUrl": "public/images/about/gallery/Sriram_edited.avif"
+  },
+  {
+    "name": "K. Kamesh Arun",
+    "title": "Director",
+    "bio": "Focuses on market expansion, strategic partnerships and strengthening the company’s brand presence.",
+    "imageUrl": "public/images/about/gallery/Kames_edited_edited.avif"
+  },
+  {
+    "name": "Vikas Arun K.",
+    "title": "Director – Business Development",
+    "bio": "Drives new business opportunities, client acquisition and international sales channels.",
+    "imageUrl": "public/images/about/gallery/vikas_arun.avif"
+  }
+]
