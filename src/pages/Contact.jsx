@@ -19,9 +19,9 @@ import {
 import { Link } from 'react-router-dom'
 
 // Reusable components from project
-import Navbar from '../Components/common/Navbar'
-import Footer from '../Components/common/Footer'
-import WhatsAppFloat from '../components/common/WhatsAppFloat'
+import Navbar from './Components/common/Navbar'
+import Footer from './Components/common/Footer'
+import WhatsAppFloat from './Components/common/WhatsAppFloat'
 
 /* ==========================================================================
    CONFIGURABLE ASSETS & COMPANY INFORMATION
