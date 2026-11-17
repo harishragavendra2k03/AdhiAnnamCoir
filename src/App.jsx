@@ -1,10 +1,8 @@
 import { Navigate, Route, Routes } from "react-router-dom";
-import Navbar from "./components/common/Navbar";
-import Footer from "./components/common/Footer";
-import BackToTop from "./components/common/BackToTop";
-import WhatsAppFloat from "./components/common/WhatsAppFloat";
-
-
+import Navbar from "./Components/common/Navbar";
+import Footer from "./Components/common/Footer";
+import BackToTop from "./Components/common/BackToTop";
+import WhatsAppFloat from "./Components/common/WhatsAppFloat";
 import Blog from "./pages/Blog";
 import Contact from "./pages/Contact";
 import About from "./pages/about/About"; 
@@ -12,9 +10,6 @@ import TradeShows from "./pages/TradeShows";
 import Products from "./pages/Products";
 import ProductDetails from "./pages/ProductDetails";
 import Home from "./pages/Home";
-
-
-
 // Product Category Subpages – canonical routes
 import CoirPackaging from "./pages/products/CoirPackaging";
 import CoirFiltration from "./pages/products/CoirFiltration";
