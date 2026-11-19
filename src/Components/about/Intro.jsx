@@ -5,7 +5,7 @@ const Intro = () => {
     <section className="py-16 px-4 container mx-auto">
       <div className="flex flex-col md:flex-row items-center md:gap-8">
         <img
-          src="public/images/about/gallery/About1.avif"
+          src="/images/about/gallery/About1.avif"
           // alt="Manufacturing"
           className="w-full md:w-1/2 h-auto rounded-lg shadow"
         />
