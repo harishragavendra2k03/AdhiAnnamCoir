@@ -12,7 +12,7 @@ export const blogData = [
     category: "Sustainable Packaging",
     date: null,
     readingTime: "5 min",
-    image: "public/images/about/gallery/coir_pallets.avif",
+    image: "/images/about/gallery/coir_pallets.avif",
     // Content can be expanded later; placeholder for now.
     content: `
       <p>Coir pallets provide a sustainable alternative to traditional timber pallets. They are exempt from ISPM-15 regulations, eliminating the need for fumigation and certification stamps.</p>
@@ -28,7 +28,7 @@ export const blogData = [
     category: "Sustainable Packaging",
     date: null,
     readingTime: "5 min",
-    image: "public/images/about/gallery/bubblewrapvspewrap.avif",
+    image: "/images/about/gallery/bubblewrapvspewrap.avif",
     content: `
       <p>Coir bubble wrap offers the same protective qualities as conventional polyethylene bubble wrap while being fully compostable.</p>
     `
@@ -42,7 +42,7 @@ export const blogData = [
     category: "Construction & Interiors",
     date: null,
     readingTime: "5 min",
-    image: "public/images/about/gallery/roofpanels.avif",
+    image: "/images/about/gallery/roofpanels.avif",
     content: `
       <p>These panels combine structural strength with acoustic insulation, reducing the need for separate materials.</p>
     `
@@ -56,7 +56,7 @@ export const blogData = [
     category: "Filtration",
     date: null,
     readingTime: "6 min",
-    image: "public/images/about/gallery/wastewater.avif",
+    image: "/images/about/gallery/wastewater.avif",
     content: `
       <p>Coir media offers high filtration efficiency with the added benefit of being fully biodegradable.</p>
     `
@@ -70,7 +70,7 @@ export const blogData = [
     category: "Manufacturing",
     date: null,
     readingTime: "3 min",
-    image: "public/images/about/gallery/coconuthusk.avif",
+    image: "/images/about/gallery/coconuthusk.avif",
     content: `
       <p>An inside look at the processing steps that turn raw coconut husk into a diverse product portfolio.</p>
     `
@@ -84,7 +84,7 @@ export const blogData = [
     category: "Sustainability",
     date: null,
     readingTime: "5 min",
-    image: "public/images/about/gallery/carbonfootprint.avif",
+    image: "/images/about/gallery/carbonfootprint.avif",
     content: `
       <p>Coir products help reduce indirect emissions across supply chains by replacing more carbon‑intensive materials.</p>
     `
@@ -98,7 +98,7 @@ export const blogData = [
     category: "Sustainable Design",
     date: null,
     readingTime: "4 min",
-    image: "public/images/about/gallery/coirencraved.avif",
+    image: "/images/about/gallery/coirencraved.avif",
     content: `
       <p>Discover how coir engraved boards combine sustainability with aesthetics, offering a natural alternative to plastic and wood signage.</p>
     `
@@ -112,7 +112,7 @@ export const blogData = [
     category: "Construction & Landscaping",
     date: null,
     readingTime: "5 min",
-    image: "public/images/about/gallery/coirrolls.avif",
+    image: "/images/about/gallery/coirrolls.avif",
     content: `
       <p>Coir rolls offer high tensile strength, biodegradability, and cost‑effectiveness for a range of construction and landscaping applications.</p>
     `
@@ -126,7 +126,7 @@ export const blogData = [
     category: "Green Building",
     date: null,
     readingTime: "6 min",
-    image: "public/images/about/gallery/coirproducts.avif",
+    image: "/images/about/gallery/coirproducts.avif",
     content: `
       <p>Integrating coir panels, insulation, and flooring can earn valuable points under IGBC and GRIHA rating systems.</p>
     `
@@ -140,7 +140,7 @@ export const blogData = [
     category: "Corporate Gifts",
     date: null,
     readingTime: "3 min",
-    image: "public/images/about/gallery/coirgift.avif",
+    image: "/images/about/gallery/coirgift.avif",
     content: `
       <p>From coir notebooks to desk organizers, these gifts support a circular economy while promoting your brand.</p>
     `
